@@ -1,0 +1,7 @@
+#app {
+  max-width: 800px;
+}
+
+label.disabled, label[disabled] {
+  background-color:#f0f0f0;
+}
